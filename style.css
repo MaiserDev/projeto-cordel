@@ -9,9 +9,9 @@
 
 
 :root {
-    --fonte01: Verdana, Geneva, Tahoma, sans-serif;
+    --fonte001: cursive;
     --fonte002: 'Passion One', cursive;
-    --fonte003: 'Sriracha', cursive;
+    --fonte003: cursive;
 }
 
 body, html {
@@ -55,7 +55,7 @@ main p {
 }
 
 section {
-    font-size: 3vw;
+    font-size: 4vw;
     padding-top: 90px ;
     padding-bottom: 90px;
     padding-left: 30px;
